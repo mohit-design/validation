@@ -17,11 +17,11 @@ p { margin: 0; }
 /*------- Form Section Starts -------*/
 
 .bg-form { padding: 100px; }
-.panel-heading-form > h2 { color: #3c763d; font: 3rem/1.2 "Roboto-Regular"; }
+.panel-heading-form > h2 { color: #3c763d; font: 3rem/1.4 "Roboto-Regular"; }
 .panel-body-form { padding: 30px; }
 .form-group { margin-bottom: 30px; }
 .form-group:last-child { margin-bottom: 0; }
-.form-group > label { color: #000000; font: 1.8rem/1.2 "Roboto-Light"; margin-bottom: 10px; }
+.form-group > label { color: #000000; font: 1.8rem/1.4 "Roboto-Light"; margin-bottom: 10px; }
 .form-group > input { margin-bottom: 10px; }
 .form-control { border: 1px solid #000000; border-radius: 0; -webkit-border-radius: 0; -moz-border-radius: 0; -ms-border-radius: 0; -o-border-radius: 0; font: 1.6rem/1.2 "Roboto-Light"; letter-spacing: 1px; }
 .form-control::placeholder {
@@ -35,7 +35,7 @@ p { margin: 0; }
  color: #000000;
 }
 .form-control:focus { -webkit-box-shadow: none; -moz-box-shadow: none; -ms-box-shadow: none; -o-box-shadow: none; box-shadow: none; }
-.error-show-hide { color: #ff0000; font: 1.8rem/1.2 "Roboto-Light"; }
+.error-show-hide { color: #ff0000; font: 1.6rem/1.4 "Roboto-Light"; }
 .password-show-hide {
   display:none;
   background: #dff0d8;
